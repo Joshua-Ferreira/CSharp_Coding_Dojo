@@ -1,0 +1,13 @@
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.csprojAssemblyReference.cache
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.AssemblyInfoInputs.cache
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.AssemblyInfo.cs
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.csproj.CoreCompileInputs.cache
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.exe
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.deps.json
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.runtimeconfig.json
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.runtimeconfig.dev.json
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.dll
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.pdb
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.dll
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.pdb
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Assignments\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.genruntimeconfig.cache

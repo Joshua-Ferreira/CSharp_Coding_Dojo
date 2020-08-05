@@ -1,0 +1,13 @@
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\obj\Debug\netcoreapp3.1\Hackathon.csprojAssemblyReference.cache
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\obj\Debug\netcoreapp3.1\Hackathon.AssemblyInfoInputs.cache
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\obj\Debug\netcoreapp3.1\Hackathon.AssemblyInfo.cs
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\obj\Debug\netcoreapp3.1\Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\bin\Debug\netcoreapp3.1\Hackathon.exe
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\bin\Debug\netcoreapp3.1\Hackathon.deps.json
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\bin\Debug\netcoreapp3.1\Hackathon.runtimeconfig.json
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\bin\Debug\netcoreapp3.1\Hackathon.runtimeconfig.dev.json
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\bin\Debug\netcoreapp3.1\Hackathon.dll
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\bin\Debug\netcoreapp3.1\Hackathon.pdb
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\obj\Debug\netcoreapp3.1\Hackathon.dll
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\obj\Debug\netcoreapp3.1\Hackathon.pdb
+C:\Users\Ponts\OneDrive\Desktop\Files\Coding Dojo\C#\Hackathon\hackathon\obj\Debug\netcoreapp3.1\Hackathon.genruntimeconfig.cache

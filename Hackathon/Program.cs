@@ -24,6 +24,7 @@ namespace Hackathon
             Skills Fireball = new Skills("Fireball", "Intelligence", 15);
             Skills Stab = new Skills("Stab", "Dexterity", 15);
             Player1.addSkill(Bash);
+            Player1.addSkill(Fireball);
             Player2.addSkill(Fireball);
             Player3.addSkill(Stab);
             System.Console.WriteLine("\n");
@@ -34,6 +35,7 @@ namespace Hackathon
             System.Console.WriteLine(Player3.UseSkill(Stab, Player1));
             System.Console.WriteLine(Player1.UseSkill(Bash, Player2));
             System.Console.WriteLine(Player2.UseSkill(Fireball, Player1));
+            System.Console.WriteLine("\n");
             Player2.DisplayStats();
         }
     }
